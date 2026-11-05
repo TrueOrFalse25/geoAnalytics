@@ -4,8 +4,20 @@ from pathlib import Path
 
 import requests
 
+from database import (
+    get_cell_status,
+    initialize_database,
+    mark_cell_completed,
+    mark_cell_downloading,
+    mark_cell_failed,
+    register_cell,
+    store_roads_for_cell
+)
+
 # Overpass server
-url = "https://overpass-api.de/api/interpreter"
+# url = "https://overpass-api.de/api/interpreter"
+# url = 'https://overpass.private.coffee/api/interpreter'
+url = 'https://maps.mail.ru/osm/tools/overpass/api/interpreter'
 
 # Identify our script to the server
 headers = {
@@ -19,6 +31,8 @@ south_edge = 14.09
 north_edge = 14.10
 west_edge = -87.22
 east_edge = -87.20
+# testing only
+country_name = 'Honduras'
 
 rows = 2
 columns = 2
@@ -35,8 +49,26 @@ for row in range(rows):
         west = round(west_edge + column * cell_width, 6)
         east = round(west_edge + (column + 1) * cell_width, 6)
 
-        section_id = f"grid_r{row + 1}_c{column + 1}"
+        # section_id = f"grid_r{row + 1}_c{column + 1}"
+        section_id = f'cell_{south:.6f}_{west:.6f}_{north:.6f}_{east:.6f}'
+
         sections[section_id] = (south, west, north, east)
+
+
+# create/update the SQLite database, save every generated cell + its coordinates
+initialize_database()
+for section_id, bounds in sections.items():
+    south, west, north, east = bounds
+
+    register_cell(
+        cell_id=section_id,
+        country_name=country_name,
+        south=south,
+        west=west,
+        north=north,
+        east=east
+    )
+
 
 # Show the sections before downloading
 for section_id, bounds in sections.items():
@@ -48,15 +80,15 @@ for section_id, bounds in sections.items():
 folder = Path(__file__).resolve().parent / "downloads_grid_test"
 folder.mkdir(exist_ok=True)
 
-progress_file = folder / "progress.json"
+# ---- replacing progress.json setup with our sqlite setup
+# progress_file = folder / "progress.json"
 
-# Read previously saved progress
-if progress_file.exists():
-    with progress_file.open(encoding="utf-8") as file:
-        progress = json.load(file)
-else:
-    progress = {}
-
+# # Read previously saved progress
+# if progress_file.exists():
+#     with progress_file.open(encoding="utf-8") as file:
+#         progress = json.load(file)
+# else:
+#     progress = {}
 
 # Save safely using a temporary file
 def save_json(path, data):
@@ -70,13 +102,13 @@ def save_json(path, data):
 
 # Download each section
 for section_id, bounds in sections.items():
-    output_file = folder / f"{section_id}.json"
+    output_file = folder / f'{section_id}.json'
 
-    if (
-        progress.get(section_id) == "completed"
-        and output_file.exists()
-    ):
-        print(f"Skipping {section_id}: already downloaded.")
+    if (get_cell_status(section_id) == 'completed' and output_file.exists()):
+        print(
+            f'Skipping {section_id}: '
+            f'already downloaded and stored.'
+        )
         continue
 
     south, west, north, east = bounds
@@ -107,13 +139,15 @@ for section_id, bounds in sections.items():
     out geom;
     """
 
-    progress[section_id] = "pending"
-    save_json(progress_file, progress)
+    # progress[section_id] = "pending"
+    # save_json(progress_file, progress)
 
     completed = False
     max_attempts = 4
+    failure_reason = 'Download did not complete.'
 
     for attempt in range(1, max_attempts + 1):
+        mark_cell_downloading(section_id)
         print(
             f"Downloading {section_id} "
             f"(attempt {attempt}/{max_attempts})..."
@@ -151,23 +185,37 @@ for section_id, bounds in sections.items():
 
             save_json(output_file, data)
 
-            progress[section_id] = "completed"
-            save_json(progress_file, progress)
+            # progress[section_id] = "completed"
+            # save_json(progress_file, progress)
 
-            print(
-                f"Saved {section_id}: "
-                f"{len(data['elements'])} features."
+            # print(
+            #     f"Saved {section_id}: "
+            #     f"{len(data['elements'])} features."
+            # )
+            stored_count = store_roads_for_cell(
+                section_id,
+                data['elements']
             )
+
+            mark_cell_completed(
+                cell_id=section_id,
+                feature_count=stored_count,
+                raw_file=str(output_file)
+            )
+
+            print(f'Saved {section_id}: {stored_count} roads stored.')
 
             completed = True
             break
 
         except (requests.Timeout, requests.ConnectionError) as error:
             retryable = True
+            failure_reason = str(error)
             print(f"Connection problem: {error}")
 
         except (requests.RequestException, ValueError) as error:
-            print(f"Download failed: {error}")
+            failure_reason = str(error)
+            print(f'Download failed: {error}')
 
         # Stop immediately for other errors, or after the last attempt
         if not retryable or attempt == max_attempts:
@@ -178,12 +226,16 @@ for section_id, bounds in sections.items():
         time.sleep(wait_seconds)
 
     if not completed:
-        progress[section_id] = "failed"
-        save_json(progress_file, progress)
-        print(f"Stopping at {section_id}. Progress is saved.")
+        # progress[section_id] = "failed"
+        # save_json(progress_file, progress)
+        # print(f"Stopping at {section_id}. Progress is saved.")
+        mark_cell_failed(section_id, failure_reason)
+
+        print(f'Stopping at {section_id}. Failure saved in roads.db.')
         break
 
     # Pause before requesting another section
     time.sleep(30)
 
-print(f"Run finished. Check {progress_file}")
+# print(f"Run finished. Check {progress_file}")
+print(f'Run finished, download progress stored in roads.db')

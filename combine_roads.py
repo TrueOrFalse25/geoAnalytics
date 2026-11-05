@@ -3,15 +3,21 @@ from pathlib import Path
 
 # Folder containing this script
 project_folder = Path(__file__).resolve().parent
-download_folder = project_folder / "downloads_with_private"
+# download_folder = project_folder / "downloads_with_private"
+download_folder = project_folder / 'downloads_grid_test'
 
-# The four completed downloads
-filenames = [
-    "cell_001.json",
-    "cell_002a.json",
-    "cell_002b.json",
-    "cell_003.json",
-]
+# # The four completed downloads
+# filenames = [
+#     "cell_001.json",
+#     "cell_002a.json",
+#     "cell_002b.json",
+#     "cell_003.json",
+# ]
+
+# for all completed downloads
+filenames = sorted(path.name for path in download_folder.glob('cell_*.json'))
+if not filenames:
+    raise FileNotFoundError(f'No cell downloads found in {download_folder}')
 
 unique_roads = {}
 total_count = 0
@@ -70,7 +76,8 @@ geojson = {
     "features": features
 }
 
-output_file = project_folder / "combined_roads_with_private.geojson"
+# output_file = project_folder / "combined_roads_with_private.geojson"
+output_file = project_folder / 'grid_test_roads.geojson'
 
 with output_file.open("w", encoding="utf-8") as file:
     json.dump(geojson, file, indent=2)

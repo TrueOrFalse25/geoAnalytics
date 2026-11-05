@@ -1,0 +1,4930 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30227243",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "7a Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 30227243
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2115363,
+            14.088686
+          ],
+          [
+            -87.2114918,
+            14.0892403
+          ],
+          [
+            -87.2114459,
+            14.0898117
+          ],
+          [
+            -87.2114004,
+            14.090378
+          ],
+          [
+            -87.2113347,
+            14.0912072
+          ],
+          [
+            -87.2112628,
+            14.0920921
+          ],
+          [
+            -87.2111932,
+            14.0929604
+          ],
+          [
+            -87.2111217,
+            14.0938561
+          ],
+          [
+            -87.2110571,
+            14.0947074
+          ],
+          [
+            -87.210968,
+            14.0955846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30236593",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal S",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 30236593
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2180531,
+            14.0922557
+          ],
+          [
+            -87.2181483,
+            14.0922491
+          ],
+          [
+            -87.2182127,
+            14.0922877
+          ],
+          [
+            -87.2184349,
+            14.0928909
+          ],
+          [
+            -87.2186595,
+            14.0934391
+          ],
+          [
+            -87.2189279,
+            14.0941149
+          ],
+          [
+            -87.2190226,
+            14.0943863
+          ],
+          [
+            -87.2194146,
+            14.0953345
+          ],
+          [
+            -87.2197689,
+            14.096285
+          ],
+          [
+            -87.2198292,
+            14.0964533
+          ],
+          [
+            -87.2200204,
+            14.0970002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30236637",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal T",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 30236637
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2191273,
+            14.0928138
+          ],
+          [
+            -87.2192821,
+            14.0932104
+          ],
+          [
+            -87.2196326,
+            14.094152
+          ],
+          [
+            -87.2200077,
+            14.0951382
+          ],
+          [
+            -87.2203795,
+            14.0960707
+          ],
+          [
+            -87.2206849,
+            14.0968956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30236702",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal U",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 30236702
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2196597,
+            14.092754
+          ],
+          [
+            -87.2197647,
+            14.0930154
+          ],
+          [
+            -87.2201396,
+            14.0939573
+          ],
+          [
+            -87.2205522,
+            14.0949274
+          ],
+          [
+            -87.2207219,
+            14.0953845
+          ],
+          [
+            -87.2209039,
+            14.0958737
+          ],
+          [
+            -87.2212422,
+            14.0968139
+          ],
+          [
+            -87.2212717,
+            14.0968844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316400",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal S",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 30316400
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2124882,
+            14.0883418
+          ],
+          [
+            -87.2126573,
+            14.0885194
+          ],
+          [
+            -87.2127715,
+            14.0886394
+          ],
+          [
+            -87.2133529,
+            14.0891972
+          ],
+          [
+            -87.2135773,
+            14.0894016
+          ],
+          [
+            -87.2137044,
+            14.0895122
+          ],
+          [
+            -87.214044,
+            14.0897885
+          ],
+          [
+            -87.2143924,
+            14.0900719
+          ],
+          [
+            -87.2146269,
+            14.0902628
+          ],
+          [
+            -87.2148321,
+            14.0904297
+          ],
+          [
+            -87.2148636,
+            14.0904236
+          ],
+          [
+            -87.2149001,
+            14.0904166
+          ],
+          [
+            -87.2149502,
+            14.0904217
+          ],
+          [
+            -87.2150357,
+            14.0904557
+          ],
+          [
+            -87.2151438,
+            14.0904986
+          ],
+          [
+            -87.2152067,
+            14.0905325
+          ],
+          [
+            -87.2152782,
+            14.0905769
+          ],
+          [
+            -87.2154882,
+            14.0907441
+          ],
+          [
+            -87.2155717,
+            14.0908076
+          ],
+          [
+            -87.215681,
+            14.0908907
+          ],
+          [
+            -87.2157201,
+            14.0909239
+          ],
+          [
+            -87.2157297,
+            14.0909322
+          ],
+          [
+            -87.2159178,
+            14.0910952
+          ],
+          [
+            -87.2161387,
+            14.0912646
+          ],
+          [
+            -87.2163297,
+            14.0914381
+          ],
+          [
+            -87.2165367,
+            14.0915945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316403",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "8a Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 30316403
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.211922,
+            14.0948723
+          ],
+          [
+            -87.2119309,
+            14.0947831
+          ],
+          [
+            -87.2119376,
+            14.0946949
+          ],
+          [
+            -87.211996,
+            14.0939232
+          ],
+          [
+            -87.2120687,
+            14.0932857
+          ],
+          [
+            -87.2120829,
+            14.0931606
+          ],
+          [
+            -87.2120829,
+            14.0930157
+          ],
+          [
+            -87.2121466,
+            14.0921502
+          ],
+          [
+            -87.2121986,
+            14.0916334
+          ],
+          [
+            -87.2122296,
+            14.0912493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316428",
+      "properties": {
+        "alt_name": "15a Calle",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "15 Calle",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 30316428
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2095295,
+            14.0911116
+          ],
+          [
+            -87.2102735,
+            14.0911462
+          ],
+          [
+            -87.2104357,
+            14.0911537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316433",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "10a Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 30316433
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2138807,
+            14.0949327
+          ],
+          [
+            -87.2139723,
+            14.0940606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316655",
+      "properties": {
+        "alt_name": "13a Calle",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "13 Calle",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 30316655
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2078529,
+            14.0927511
+          ],
+          [
+            -87.2085124,
+            14.0927868
+          ],
+          [
+            -87.209396,
+            14.0928442
+          ],
+          [
+            -87.2102941,
+            14.0929022
+          ],
+          [
+            -87.2111932,
+            14.0929604
+          ],
+          [
+            -87.211546,
+            14.0929823
+          ],
+          [
+            -87.2120829,
+            14.0930157
+          ],
+          [
+            -87.2126862,
+            14.0930689
+          ],
+          [
+            -87.2130511,
+            14.0930992
+          ],
+          [
+            -87.2140279,
+            14.093144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316707",
+      "properties": {
+        "alt_name": "12a Calle",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "12 Calle",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 30316707
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2093286,
+            14.0937153
+          ],
+          [
+            -87.2102223,
+            14.0937847
+          ],
+          [
+            -87.2111217,
+            14.0938561
+          ],
+          [
+            -87.2116246,
+            14.0938947
+          ],
+          [
+            -87.211996,
+            14.0939232
+          ],
+          [
+            -87.2128845,
+            14.0939774
+          ],
+          [
+            -87.2131262,
+            14.093998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30316766",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "16 Calle",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 30316766
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2087025,
+            14.0901847
+          ],
+          [
+            -87.2095956,
+            14.0902433
+          ],
+          [
+            -87.2105043,
+            14.0903086
+          ],
+          [
+            -87.2109184,
+            14.0903415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30318307",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Panam\u00e1",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 30318307
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2141887,
+            14.0909647
+          ],
+          [
+            -87.214349,
+            14.091137
+          ],
+          [
+            -87.214496,
+            14.0912895
+          ],
+          [
+            -87.2151797,
+            14.0918111
+          ],
+          [
+            -87.2154952,
+            14.0920581
+          ],
+          [
+            -87.2156165,
+            14.0921439
+          ],
+          [
+            -87.215862,
+            14.0923375
+          ],
+          [
+            -87.2162177,
+            14.092618
+          ],
+          [
+            -87.2163702,
+            14.0927485
+          ],
+          [
+            -87.2164992,
+            14.092806
+          ],
+          [
+            -87.2166151,
+            14.0928325
+          ],
+          [
+            -87.2168426,
+            14.0928797
+          ],
+          [
+            -87.2171169,
+            14.0929739
+          ],
+          [
+            -87.2172188,
+            14.0930428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30318321",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calle La Diana",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 30318321
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2164911,
+            14.090451
+          ],
+          [
+            -87.2163984,
+            14.0910512
+          ],
+          [
+            -87.2163882,
+            14.091116
+          ],
+          [
+            -87.2163872,
+            14.091239
+          ],
+          [
+            -87.2164177,
+            14.0913626
+          ],
+          [
+            -87.2165367,
+            14.0915945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126309",
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 35126309
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2155927,
+            14.0933496
+          ],
+          [
+            -87.2152287,
+            14.0933593
+          ],
+          [
+            -87.2151193,
+            14.0933622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126609",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "12 Calle",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 35126609
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.218932,
+            14.0944211
+          ],
+          [
+            -87.217283,
+            14.0943136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126610",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Diagonal E",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 35126610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2200892,
+            14.0928837
+          ],
+          [
+            -87.2197647,
+            14.0930154
+          ],
+          [
+            -87.2192821,
+            14.0932104
+          ],
+          [
+            -87.2186595,
+            14.0934391
+          ],
+          [
+            -87.2180878,
+            14.0936492
+          ],
+          [
+            -87.2171832,
+            14.0939731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126611",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Vaticano",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 35126611
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2189279,
+            14.0941149
+          ],
+          [
+            -87.2180878,
+            14.0936492
+          ],
+          [
+            -87.2178329,
+            14.0934707
+          ],
+          [
+            -87.2174441,
+            14.0932017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126613",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Cocota",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 35126613
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2189023,
+            14.0955153
+          ],
+          [
+            -87.2186078,
+            14.0947725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126614",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal Q",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 35126614
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2178386,
+            14.0960184
+          ],
+          [
+            -87.2178501,
+            14.0959417
+          ],
+          [
+            -87.2175525,
+            14.095133
+          ],
+          [
+            -87.2174876,
+            14.0949759
+          ],
+          [
+            -87.217262,
+            14.0944192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126615",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "15 Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 35126615
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2180514,
+            14.0947717
+          ],
+          [
+            -87.2184423,
+            14.0957026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126616",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Diagonal F",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 35126616
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2201396,
+            14.0939573
+          ],
+          [
+            -87.2196326,
+            14.094152
+          ],
+          [
+            -87.2190226,
+            14.0943863
+          ],
+          [
+            -87.218932,
+            14.0944211
+          ],
+          [
+            -87.2186923,
+            14.0945163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126617",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "12 Calle",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 35126617
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.217283,
+            14.0943136
+          ],
+          [
+            -87.2172334,
+            14.0943132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126618",
+      "properties": {
+        "alt_name": "13a Avenida",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "13 Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "paving_stones",
+        "osm_id": 35126618
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2163606,
+            14.0959087
+          ],
+          [
+            -87.2163626,
+            14.095131
+          ],
+          [
+            -87.2163747,
+            14.0942672
+          ],
+          [
+            -87.2164022,
+            14.0933869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35126619",
+      "properties": {
+        "alt_name": "11a Avenida",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "11 Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 35126619
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2146609,
+            14.0958053
+          ],
+          [
+            -87.2146773,
+            14.0956242
+          ],
+          [
+            -87.2146935,
+            14.0954546
+          ],
+          [
+            -87.2147342,
+            14.0950009
+          ],
+          [
+            -87.2147932,
+            14.0941411
+          ],
+          [
+            -87.2148345,
+            14.0934701
+          ],
+          [
+            -87.2148388,
+            14.0933996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42431509",
+      "properties": {
+        "alt_name": "12a Avenida",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "12 Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 42431509
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2155927,
+            14.0933496
+          ],
+          [
+            -87.2155882,
+            14.0933981
+          ],
+          [
+            -87.2155693,
+            14.0936345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42444458",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal Caba\u00f1as",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 42444458
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2176054,
+            14.09091
+          ],
+          [
+            -87.2185324,
+            14.0913948
+          ],
+          [
+            -87.2192605,
+            14.0917912
+          ],
+          [
+            -87.2198021,
+            14.0920545
+          ],
+          [
+            -87.2198547,
+            14.092095
+          ],
+          [
+            -87.219874,
+            14.0921806
+          ],
+          [
+            -87.2198912,
+            14.09232
+          ],
+          [
+            -87.219952,
+            14.092702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42444464",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Sendero Puntarenas",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 42444464
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2183036,
+            14.0905152
+          ],
+          [
+            -87.2188579,
+            14.0908048
+          ],
+          [
+            -87.2195962,
+            14.0911905
+          ],
+          [
+            -87.2199577,
+            14.0913795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42444474",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Diagonal Ady",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 42444474
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2182337,
+            14.0919226
+          ],
+          [
+            -87.2185324,
+            14.0913948
+          ],
+          [
+            -87.2188579,
+            14.0908048
+          ],
+          [
+            -87.2189224,
+            14.0906949
+          ],
+          [
+            -87.2191611,
+            14.0902242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42444492",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal Chiriqu\u00ed",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 42444492
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2159299,
+            14.0918475
+          ],
+          [
+            -87.2160618,
+            14.0919381
+          ],
+          [
+            -87.21625,
+            14.0920671
+          ],
+          [
+            -87.2164916,
+            14.0922236
+          ],
+          [
+            -87.2169547,
+            14.0924659
+          ],
+          [
+            -87.2173166,
+            14.0926468
+          ],
+          [
+            -87.2177169,
+            14.0928638
+          ],
+          [
+            -87.2177365,
+            14.0929621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42444502",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Martinete",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 42444502
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2194176,
+            14.0902283
+          ],
+          [
+            -87.2197804,
+            14.0900276
+          ],
+          [
+            -87.2197894,
+            14.0899906
+          ],
+          [
+            -87.2197807,
+            14.089948
+          ],
+          [
+            -87.2196034,
+            14.0896808
+          ],
+          [
+            -87.2195177,
+            14.0895358
+          ],
+          [
+            -87.2194771,
+            14.0894178
+          ],
+          [
+            -87.2194473,
+            14.0892101
+          ],
+          [
+            -87.219441,
+            14.0890254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181971170",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Transversal Fuertes",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 181971170
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2210274,
+            14.0918853
+          ],
+          [
+            -87.2207285,
+            14.0915027
+          ],
+          [
+            -87.2203442,
+            14.0910846
+          ],
+          [
+            -87.2198759,
+            14.0907126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181971172",
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Avenida Caba\u00f1as",
+        "sidewalk": "both",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 181971172
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2210274,
+            14.0918853
+          ],
+          [
+            -87.2208324,
+            14.0920461
+          ],
+          [
+            -87.2203709,
+            14.0924633
+          ],
+          [
+            -87.2203027,
+            14.0925222
+          ],
+          [
+            -87.2202157,
+            14.0925795
+          ],
+          [
+            -87.2201036,
+            14.0926408
+          ],
+          [
+            -87.219952,
+            14.092702
+          ],
+          [
+            -87.219826,
+            14.0927319
+          ],
+          [
+            -87.2196597,
+            14.092754
+          ],
+          [
+            -87.2191273,
+            14.0928138
+          ],
+          [
+            -87.2188242,
+            14.0928516
+          ],
+          [
+            -87.2184349,
+            14.0928909
+          ],
+          [
+            -87.2177365,
+            14.0929621
+          ],
+          [
+            -87.2172188,
+            14.0930428
+          ],
+          [
+            -87.2168682,
+            14.0931252
+          ],
+          [
+            -87.2162932,
+            14.0932506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225113799",
+      "properties": {
+        "highway": "living_street",
+        "maxspeed": "20",
+        "name": "8a Avenida B",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 225113799
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2123304,
+            14.0956748
+          ],
+          [
+            -87.2124,
+            14.0948115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236639578",
+      "properties": {
+        "alt_name": "11a Avenida",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "11 Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 236639578
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2149162,
+            14.0922788
+          ],
+          [
+            -87.2148614,
+            14.0932127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/376709133",
+      "properties": {
+        "alt_name": "14a Calle B",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "14 Calle B",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "paving_stones",
+        "osm_id": 376709133
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2121986,
+            14.0916334
+          ],
+          [
+            -87.2131384,
+            14.0916765
+          ],
+          [
+            -87.2141142,
+            14.0917219
+          ],
+          [
+            -87.2145217,
+            14.0917455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400041725",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Bocas del Toro",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 400041725
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2164198,
+            14.0900907
+          ],
+          [
+            -87.2163446,
+            14.0900949
+          ],
+          [
+            -87.2163131,
+            14.0900968
+          ],
+          [
+            -87.216092,
+            14.0901101
+          ],
+          [
+            -87.2160774,
+            14.090111
+          ],
+          [
+            -87.2158262,
+            14.090167
+          ],
+          [
+            -87.2155656,
+            14.090225
+          ],
+          [
+            -87.2155037,
+            14.0902388
+          ],
+          [
+            -87.2153142,
+            14.0902704
+          ],
+          [
+            -87.2152728,
+            14.0902876
+          ],
+          [
+            -87.2151905,
+            14.0903363
+          ],
+          [
+            -87.2151438,
+            14.0904986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413477111",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "8a Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 413477111
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2117913,
+            14.0966093
+          ],
+          [
+            -87.2118343,
+            14.0959673
+          ],
+          [
+            -87.2118547,
+            14.0956482
+          ],
+          [
+            -87.211922,
+            14.0948723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413682801",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "9a Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 413682801
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2132463,
+            14.0899406
+          ],
+          [
+            -87.2132113,
+            14.0905176
+          ],
+          [
+            -87.2131641,
+            14.0912934
+          ],
+          [
+            -87.2131384,
+            14.0916765
+          ],
+          [
+            -87.2131086,
+            14.0922071
+          ],
+          [
+            -87.2130858,
+            14.092595
+          ],
+          [
+            -87.2130511,
+            14.0930992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414199229",
+      "properties": {
+        "highway": "living_street",
+        "maxspeed": "20",
+        "name": "13 Avenida B",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 414199229
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2167292,
+            14.094296
+          ],
+          [
+            -87.2165934,
+            14.0951399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414219526",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Chitr\u00e9",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 414219526
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.215681,
+            14.0908907
+          ],
+          [
+            -87.2153959,
+            14.0913789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414219527",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Diagonal Ady",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 414219527
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2180221,
+            14.0923106
+          ],
+          [
+            -87.2177169,
+            14.0928638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414219530",
+      "properties": {
+        "alt_name": "14a Calle",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "14 Calle",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 414219530
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2198912,
+            14.09232
+          ],
+          [
+            -87.2189597,
+            14.092292
+          ],
+          [
+            -87.2186922,
+            14.092284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414219532",
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Calzada Ayax",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 414219532
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2195962,
+            14.0911905
+          ],
+          [
+            -87.2192605,
+            14.0917912
+          ],
+          [
+            -87.2190063,
+            14.0922065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414532085",
+      "properties": {
+        "alt_name": "12a Avenida",
+        "highway": "residential",
+        "name": "12 Avenida",
+        "osm_id": 414532085
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2155687,
+            14.0925245
+          ],
+          [
+            -87.2156364,
+            14.0926174
+          ],
+          [
+            -87.215649,
+            14.0927048
+          ],
+          [
+            -87.2156468,
+            14.0927519
+          ],
+          [
+            -87.2156012,
+            14.0932556
+          ],
+          [
+            -87.2155927,
+            14.0933496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414704084",
+      "properties": {
+        "alt_name": "14a Calle",
+        "highway": "residential",
+        "name": "14 Calle",
+        "surface": "asphalt",
+        "osm_id": 414704084
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2103636,
+            14.0920407
+          ],
+          [
+            -87.2112628,
+            14.0920921
+          ],
+          [
+            -87.2121466,
+            14.0921502
+          ],
+          [
+            -87.2128793,
+            14.0921935
+          ],
+          [
+            -87.2131086,
+            14.0922071
+          ],
+          [
+            -87.2136658,
+            14.09224
+          ],
+          [
+            -87.2140813,
+            14.0922644
+          ],
+          [
+            -87.2144946,
+            14.0922605
+          ],
+          [
+            -87.2149162,
+            14.0922788
+          ],
+          [
+            -87.2152501,
+            14.0923319
+          ],
+          [
+            -87.2154537,
+            14.0924161
+          ],
+          [
+            -87.2155687,
+            14.0925245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414704086",
+      "properties": {
+        "alt_name": "11a Calle",
+        "highway": "residential",
+        "name": "11 Calle",
+        "oneway": "yes",
+        "osm_id": 414704086
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2119309,
+            14.0947831
+          ],
+          [
+            -87.2110571,
+            14.0947074
+          ],
+          [
+            -87.2101524,
+            14.0946456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414704088",
+      "properties": {
+        "alt_name": "11a Calle",
+        "highway": "residential",
+        "name": "11 Calle",
+        "surface": "concrete",
+        "osm_id": 414704088
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2119309,
+            14.0947831
+          ],
+          [
+            -87.2120836,
+            14.0947877
+          ],
+          [
+            -87.2124,
+            14.0948115
+          ],
+          [
+            -87.2128192,
+            14.0948449
+          ],
+          [
+            -87.2138807,
+            14.0949327
+          ],
+          [
+            -87.2147342,
+            14.0950009
+          ],
+          [
+            -87.2154629,
+            14.0950573
+          ],
+          [
+            -87.2163626,
+            14.095131
+          ],
+          [
+            -87.2165934,
+            14.0951399
+          ],
+          [
+            -87.2168266,
+            14.0951562
+          ],
+          [
+            -87.2169007,
+            14.0951546
+          ],
+          [
+            -87.217269,
+            14.0951509
+          ],
+          [
+            -87.2175525,
+            14.095133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417322535",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar del Norte",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417322535
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.232444,
+            14.10468
+          ],
+          [
+            -87.2323886,
+            14.1043928
+          ],
+          [
+            -87.2323609,
+            14.1042193
+          ],
+          [
+            -87.2323481,
+            14.1041079
+          ],
+          [
+            -87.2322843,
+            14.103571
+          ],
+          [
+            -87.2322442,
+            14.1032271
+          ],
+          [
+            -87.2322135,
+            14.1028987
+          ],
+          [
+            -87.2321062,
+            14.1017516
+          ],
+          [
+            -87.2320875,
+            14.1015865
+          ],
+          [
+            -87.2320507,
+            14.1012624
+          ],
+          [
+            -87.232035,
+            14.101188
+          ],
+          [
+            -87.2320129,
+            14.1010828
+          ],
+          [
+            -87.231978,
+            14.1009658
+          ],
+          [
+            -87.231853,
+            14.1006921
+          ],
+          [
+            -87.2316739,
+            14.1004151
+          ],
+          [
+            -87.2313968,
+            14.1001127
+          ],
+          [
+            -87.2312413,
+            14.1000153
+          ],
+          [
+            -87.2311973,
+            14.0999901
+          ],
+          [
+            -87.2310352,
+            14.0998973
+          ],
+          [
+            -87.2308375,
+            14.0998121
+          ],
+          [
+            -87.2307074,
+            14.0997711
+          ],
+          [
+            -87.2305342,
+            14.0997295
+          ],
+          [
+            -87.2302314,
+            14.0996739
+          ],
+          [
+            -87.2288356,
+            14.0993726
+          ],
+          [
+            -87.2277248,
+            14.0991255
+          ],
+          [
+            -87.2275155,
+            14.0990713
+          ],
+          [
+            -87.2272853,
+            14.0989938
+          ],
+          [
+            -87.226892,
+            14.0988353
+          ],
+          [
+            -87.2260331,
+            14.0984661
+          ],
+          [
+            -87.2254088,
+            14.0982091
+          ],
+          [
+            -87.225077,
+            14.0980718
+          ],
+          [
+            -87.2249262,
+            14.0980084
+          ],
+          [
+            -87.22462,
+            14.0978655
+          ],
+          [
+            -87.2240266,
+            14.0975797
+          ],
+          [
+            -87.2235866,
+            14.0973483
+          ],
+          [
+            -87.2230952,
+            14.0970747
+          ],
+          [
+            -87.2230446,
+            14.0970378
+          ],
+          [
+            -87.2229385,
+            14.0969821
+          ],
+          [
+            -87.2226755,
+            14.0968527
+          ],
+          [
+            -87.2223021,
+            14.0967303
+          ],
+          [
+            -87.2221402,
+            14.0967058
+          ],
+          [
+            -87.2219374,
+            14.0967049
+          ],
+          [
+            -87.2215666,
+            14.0967455
+          ],
+          [
+            -87.2212422,
+            14.0968139
+          ],
+          [
+            -87.2206849,
+            14.0968956
+          ],
+          [
+            -87.2205683,
+            14.0969166
+          ],
+          [
+            -87.2204171,
+            14.0969404
+          ],
+          [
+            -87.2200204,
+            14.0970002
+          ],
+          [
+            -87.2198886,
+            14.0969967
+          ],
+          [
+            -87.2196911,
+            14.0969711
+          ],
+          [
+            -87.2195753,
+            14.0969282
+          ],
+          [
+            -87.2194935,
+            14.0968866
+          ],
+          [
+            -87.2191157,
+            14.0965208
+          ],
+          [
+            -87.2187619,
+            14.0962103
+          ],
+          [
+            -87.2185896,
+            14.0961041
+          ],
+          [
+            -87.2184096,
+            14.0960466
+          ],
+          [
+            -87.2182496,
+            14.0960087
+          ],
+          [
+            -87.2181549,
+            14.0959928
+          ],
+          [
+            -87.2178501,
+            14.0959417
+          ],
+          [
+            -87.2173756,
+            14.0958814
+          ],
+          [
+            -87.2171079,
+            14.0958177
+          ],
+          [
+            -87.2170338,
+            14.0957635
+          ],
+          [
+            -87.2169511,
+            14.0956859
+          ],
+          [
+            -87.2168882,
+            14.0955838
+          ],
+          [
+            -87.2168437,
+            14.0954651
+          ],
+          [
+            -87.2168429,
+            14.0953194
+          ],
+          [
+            -87.2169007,
+            14.0951546
+          ],
+          [
+            -87.217012,
+            14.0949298
+          ],
+          [
+            -87.217262,
+            14.0944192
+          ],
+          [
+            -87.217283,
+            14.0943136
+          ],
+          [
+            -87.2172669,
+            14.0941764
+          ],
+          [
+            -87.2171832,
+            14.0939731
+          ],
+          [
+            -87.216946,
+            14.0934413
+          ],
+          [
+            -87.2169067,
+            14.0933956
+          ],
+          [
+            -87.2168051,
+            14.0933492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417677066",
+      "properties": {
+        "alt_name": "11a Avenida",
+        "highway": "residential",
+        "name": "11 Avenida",
+        "surface": "concrete",
+        "osm_id": 417677066
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2148614,
+            14.0932127
+          ],
+          [
+            -87.2148388,
+            14.0933996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417677071",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417677071
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2148388,
+            14.0933996
+          ],
+          [
+            -87.2143044,
+            14.0934594
+          ],
+          [
+            -87.2140068,
+            14.0934927
+          ],
+          [
+            -87.2138303,
+            14.0935258
+          ],
+          [
+            -87.2136721,
+            14.0935805
+          ],
+          [
+            -87.2135513,
+            14.0936468
+          ],
+          [
+            -87.2134468,
+            14.0937157
+          ],
+          [
+            -87.2131262,
+            14.093998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417677075",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417677075
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2148388,
+            14.0933996
+          ],
+          [
+            -87.2148989,
+            14.0934184
+          ],
+          [
+            -87.2149743,
+            14.0934155
+          ],
+          [
+            -87.2151211,
+            14.09341
+          ],
+          [
+            -87.2153088,
+            14.0934052
+          ],
+          [
+            -87.2155882,
+            14.0933981
+          ],
+          [
+            -87.2157769,
+            14.0933935
+          ],
+          [
+            -87.2159298,
+            14.0933919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417677079",
+      "properties": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Avenida Caba\u00f1as",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 417677079
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2159298,
+            14.0933919
+          ],
+          [
+            -87.2160427,
+            14.0933384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417677083",
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417677083
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2160427,
+            14.0933384
+          ],
+          [
+            -87.2157878,
+            14.0933447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417677089",
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417677089
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2151193,
+            14.0933622
+          ],
+          [
+            -87.2148929,
+            14.0933759
+          ],
+          [
+            -87.2148388,
+            14.0933996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417754587",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417754587
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2159298,
+            14.0933919
+          ],
+          [
+            -87.2164022,
+            14.0933869
+          ],
+          [
+            -87.2165778,
+            14.0933867
+          ],
+          [
+            -87.2167319,
+            14.093398
+          ],
+          [
+            -87.216809,
+            14.0934161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417754589",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar del Norte",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417754589
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.217139,
+            14.0940007
+          ],
+          [
+            -87.2172159,
+            14.0941913
+          ],
+          [
+            -87.2172334,
+            14.0943132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417914678",
+      "properties": {
+        "highway": "residential",
+        "name": "12 Calle",
+        "oneway": "no",
+        "surface": "unpaved",
+        "osm_id": 417914678
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2131262,
+            14.093998
+          ],
+          [
+            -87.2139723,
+            14.0940606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417914679",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417914679
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2131262,
+            14.093998
+          ],
+          [
+            -87.212849,
+            14.0942594
+          ],
+          [
+            -87.212731,
+            14.094345
+          ],
+          [
+            -87.2124703,
+            14.0945417
+          ],
+          [
+            -87.2120836,
+            14.0947877
+          ],
+          [
+            -87.211922,
+            14.0948723
+          ],
+          [
+            -87.2118338,
+            14.0949162
+          ],
+          [
+            -87.211775,
+            14.0949496
+          ],
+          [
+            -87.211486,
+            14.0951479
+          ],
+          [
+            -87.2113367,
+            14.0952893
+          ],
+          [
+            -87.2110811,
+            14.0955943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417914680",
+      "properties": {
+        "highway": "residential",
+        "name": "10a Avenida",
+        "surface": "concrete",
+        "osm_id": 417914680
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2139723,
+            14.0940606
+          ],
+          [
+            -87.2140068,
+            14.0934927
+          ],
+          [
+            -87.2140279,
+            14.093144
+          ],
+          [
+            -87.2140813,
+            14.0922644
+          ],
+          [
+            -87.2141142,
+            14.0917219
+          ],
+          [
+            -87.2141374,
+            14.0913391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417914681",
+      "properties": {
+        "highway": "residential",
+        "name": "12 Calle",
+        "oneway": "no",
+        "surface": "concrete",
+        "osm_id": 417914681
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2139723,
+            14.0940606
+          ],
+          [
+            -87.2147932,
+            14.0941411
+          ],
+          [
+            -87.2155305,
+            14.0941969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417914686",
+      "properties": {
+        "alt_name": "13a Avenida B",
+        "highway": "living_street",
+        "name": "13 Avenida B",
+        "osm_id": 417914686
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2167643,
+            14.0937529
+          ],
+          [
+            -87.2167292,
+            14.094296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417915064",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar del Norte",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 417915064
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2172334,
+            14.0943132
+          ],
+          [
+            -87.2172143,
+            14.0943999
+          ],
+          [
+            -87.2172064,
+            14.0944355
+          ],
+          [
+            -87.2171279,
+            14.0946082
+          ],
+          [
+            -87.2169537,
+            14.0949446
+          ],
+          [
+            -87.2168266,
+            14.0951562
+          ],
+          [
+            -87.2168137,
+            14.0952021
+          ],
+          [
+            -87.2167925,
+            14.095311
+          ],
+          [
+            -87.2167957,
+            14.0954453
+          ],
+          [
+            -87.216812,
+            14.0955384
+          ],
+          [
+            -87.2168625,
+            14.0956695
+          ],
+          [
+            -87.2169097,
+            14.0957523
+          ],
+          [
+            -87.2169785,
+            14.0958359
+          ],
+          [
+            -87.2170374,
+            14.0958941
+          ],
+          [
+            -87.2171315,
+            14.0959415
+          ],
+          [
+            -87.2172813,
+            14.0959624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417915065",
+      "properties": {
+        "highway": "residential",
+        "name": "12 Calle",
+        "osm_id": 417915065
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2170228,
+            14.0943094
+          ],
+          [
+            -87.2167292,
+            14.094296
+          ],
+          [
+            -87.2163747,
+            14.0942672
+          ],
+          [
+            -87.2155305,
+            14.0941969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417920003",
+      "properties": {
+        "highway": "residential",
+        "name": "Diagonal E",
+        "osm_id": 417920003
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2171832,
+            14.0939731
+          ],
+          [
+            -87.217139,
+            14.0940007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417920004",
+      "properties": {
+        "highway": "residential",
+        "name": "14 Avenida",
+        "osm_id": 417920004
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.217262,
+            14.0944192
+          ],
+          [
+            -87.2172143,
+            14.0943999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421121832",
+      "properties": {
+        "alt_name": "13a Calle",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "13 Calle",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 421121832
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2140279,
+            14.093144
+          ],
+          [
+            -87.2143379,
+            14.0931695
+          ],
+          [
+            -87.2148614,
+            14.0932127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421121844",
+      "properties": {
+        "highway": "living_street",
+        "surface": "asphalt",
+        "osm_id": 421121844
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2188242,
+            14.0928516
+          ],
+          [
+            -87.218807,
+            14.0926975
+          ],
+          [
+            -87.2187434,
+            14.0925961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421128933",
+      "properties": {
+        "highway": "residential",
+        "name": "12 Avenida",
+        "surface": "concrete",
+        "osm_id": 421128933
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2155305,
+            14.0941969
+          ],
+          [
+            -87.2154629,
+            14.0950573
+          ],
+          [
+            -87.2154287,
+            14.0954701
+          ],
+          [
+            -87.215404,
+            14.0958489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421128934",
+      "properties": {
+        "alt_name": "12a Avenida",
+        "highway": "residential",
+        "name": "12 Avenida",
+        "surface": "sett",
+        "osm_id": 421128934
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2155693,
+            14.0936345
+          ],
+          [
+            -87.2155305,
+            14.0941969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421128937",
+      "properties": {
+        "highway": "residential",
+        "name": "Calzada Vaticano",
+        "surface": "concrete",
+        "osm_id": 421128937
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2174441,
+            14.0932017
+          ],
+          [
+            -87.2172188,
+            14.0930428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421135212",
+      "properties": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Avenida Caba\u00f1as",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 421135212
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2162932,
+            14.0932506
+          ],
+          [
+            -87.2161368,
+            14.093283
+          ],
+          [
+            -87.2160449,
+            14.093302
+          ],
+          [
+            -87.2159639,
+            14.0933167
+          ],
+          [
+            -87.2157878,
+            14.0933447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421141206",
+      "properties": {
+        "alt_name": "15a Calle",
+        "highway": "residential",
+        "name": "15 Calle",
+        "surface": "paving_stones",
+        "osm_id": 421141206
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2113347,
+            14.0912072
+          ],
+          [
+            -87.2117015,
+            14.0912245
+          ],
+          [
+            -87.2122296,
+            14.0912493
+          ],
+          [
+            -87.2131641,
+            14.0912934
+          ],
+          [
+            -87.2141374,
+            14.0913391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421143531",
+      "properties": {
+        "highway": "residential",
+        "name": "9a Avenida",
+        "surface": "concrete",
+        "osm_id": 421143531
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2130511,
+            14.0930992
+          ],
+          [
+            -87.2128845,
+            14.0939774
+          ],
+          [
+            -87.212849,
+            14.0942594
+          ],
+          [
+            -87.2128192,
+            14.0948449
+          ],
+          [
+            -87.2127344,
+            14.0956898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421143535",
+      "properties": {
+        "highway": "service",
+        "osm_id": 421143535
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2136658,
+            14.09224
+          ],
+          [
+            -87.2136569,
+            14.0923143
+          ],
+          [
+            -87.2136569,
+            14.0925784
+          ],
+          [
+            -87.213622,
+            14.092607
+          ],
+          [
+            -87.2135648,
+            14.0926212
+          ],
+          [
+            -87.2131893,
+            14.0925999
+          ],
+          [
+            -87.2130858,
+            14.092595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421143537",
+      "properties": {
+        "highway": "residential",
+        "name": "Calle Lempira",
+        "surface": "concrete",
+        "osm_id": 421143537
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2142597,
+            14.0907382
+          ],
+          [
+            -87.2147182,
+            14.0905754
+          ],
+          [
+            -87.2147861,
+            14.0905102
+          ],
+          [
+            -87.2148321,
+            14.0904297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421152085",
+      "properties": {
+        "alt_name": "16a Calle",
+        "highway": "residential",
+        "name": "16 Calle",
+        "surface": "paving_stones",
+        "osm_id": 421152085
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2109184,
+            14.0903415
+          ],
+          [
+            -87.2114004,
+            14.090378
+          ],
+          [
+            -87.2122959,
+            14.0904556
+          ],
+          [
+            -87.2132113,
+            14.0905176
+          ],
+          [
+            -87.2140811,
+            14.0905814
+          ],
+          [
+            -87.214132,
+            14.0906004
+          ],
+          [
+            -87.2142597,
+            14.0907382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421152087",
+      "properties": {
+        "highway": "residential",
+        "name": "8a Avenida",
+        "surface": "paving_stones",
+        "osm_id": 421152087
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2122296,
+            14.0912493
+          ],
+          [
+            -87.2122959,
+            14.0904556
+          ],
+          [
+            -87.2123466,
+            14.0898872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/676127242",
+      "properties": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Avenida Caba\u00f1as",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "osm_id": 676127242
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2160427,
+            14.0933384
+          ],
+          [
+            -87.2162932,
+            14.0932506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/879967203",
+      "properties": {
+        "highway": "residential",
+        "name": "Diagonal Ady",
+        "osm_id": 879967203
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2182337,
+            14.0919226
+          ],
+          [
+            -87.2180531,
+            14.0922557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/879967204",
+      "properties": {
+        "highway": "living_street",
+        "name": "Pasaje Dari\u00e9n",
+        "osm_id": 879967204
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2176284,
+            14.0920791
+          ],
+          [
+            -87.2173166,
+            14.0926468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1203332408",
+      "properties": {
+        "highway": "living_street",
+        "name": "Pasaje Col\u00f3n",
+        "osm_id": 1203332408
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2169547,
+            14.0924659
+          ],
+          [
+            -87.2172717,
+            14.0918786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205080481",
+      "properties": {
+        "highway": "residential",
+        "name": "Pasaje 10B",
+        "surface": "paving_stones",
+        "osm_id": 1205080481
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2145217,
+            14.0917455
+          ],
+          [
+            -87.2144946,
+            14.0922605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205080483",
+      "properties": {
+        "highway": "residential",
+        "name": "10a Avenida",
+        "surface": "concrete",
+        "osm_id": 1205080483
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2141374,
+            14.0913391
+          ],
+          [
+            -87.2141887,
+            14.0909647
+          ],
+          [
+            -87.2142597,
+            14.0907382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205080484",
+      "properties": {
+        "highway": "residential",
+        "name": "Transversal S",
+        "osm_id": 1205080484
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2165367,
+            14.0915945
+          ],
+          [
+            -87.216819,
+            14.0917135
+          ],
+          [
+            -87.2168642,
+            14.0917278
+          ],
+          [
+            -87.2171832,
+            14.091829
+          ],
+          [
+            -87.2172187,
+            14.0918489
+          ],
+          [
+            -87.2172717,
+            14.0918786
+          ],
+          [
+            -87.2176021,
+            14.0920637
+          ],
+          [
+            -87.2176284,
+            14.0920791
+          ],
+          [
+            -87.2180221,
+            14.0923106
+          ],
+          [
+            -87.2180531,
+            14.0922557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205080485",
+      "properties": {
+        "highway": "residential",
+        "name": "Calzada Veraguas",
+        "osm_id": 1205080485
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2165367,
+            14.0915945
+          ],
+          [
+            -87.2164916,
+            14.0922236
+          ],
+          [
+            -87.2163702,
+            14.0927485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205090596",
+      "properties": {
+        "highway": "residential",
+        "name": "Transversal Fuertes",
+        "osm_id": 1205090596
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2188236,
+            14.0894114
+          ],
+          [
+            -87.2189036,
+            14.0895034
+          ],
+          [
+            -87.2189313,
+            14.0895352
+          ],
+          [
+            -87.2189971,
+            14.0896282
+          ],
+          [
+            -87.219176,
+            14.0898807
+          ],
+          [
+            -87.2194176,
+            14.0902283
+          ],
+          [
+            -87.2196633,
+            14.0905199
+          ],
+          [
+            -87.2198012,
+            14.0906526
+          ],
+          [
+            -87.2198759,
+            14.0907126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205092113",
+      "properties": {
+        "highway": "residential",
+        "name": "Sendero Somoto",
+        "osm_id": 1205092113
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2191611,
+            14.0902242
+          ],
+          [
+            -87.2196633,
+            14.0905199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205092114",
+      "properties": {
+        "highway": "residential",
+        "osm_id": 1205092114
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.218727,
+            14.0901416
+          ],
+          [
+            -87.2185442,
+            14.0904817
+          ],
+          [
+            -87.2185432,
+            14.0904884
+          ],
+          [
+            -87.2185459,
+            14.0904923
+          ],
+          [
+            -87.2187236,
+            14.0905876
+          ],
+          [
+            -87.2187309,
+            14.0905851
+          ],
+          [
+            -87.2187353,
+            14.0905803
+          ],
+          [
+            -87.2188502,
+            14.0903321
+          ],
+          [
+            -87.2189088,
+            14.0902184
+          ],
+          [
+            -87.2187555,
+            14.0901402
+          ],
+          [
+            -87.218727,
+            14.0901416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1207647014",
+      "properties": {
+        "highway": "residential",
+        "osm_id": 1207647014
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2128793,
+            14.0921935
+          ],
+          [
+            -87.2127798,
+            14.0924704
+          ],
+          [
+            -87.2127235,
+            14.0926655
+          ],
+          [
+            -87.2127007,
+            14.0927852
+          ],
+          [
+            -87.2126926,
+            14.0929582
+          ],
+          [
+            -87.2126862,
+            14.0930689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1209957900",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1209957900
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2185075,
+            14.0897833
+          ],
+          [
+            -87.2183843,
+            14.0902279
+          ],
+          [
+            -87.2182837,
+            14.0903398
+          ],
+          [
+            -87.2182287,
+            14.0903541
+          ],
+          [
+            -87.218159,
+            14.0903385
+          ],
+          [
+            -87.2180182,
+            14.0902995
+          ],
+          [
+            -87.217577,
+            14.0901902
+          ],
+          [
+            -87.2171746,
+            14.0901057
+          ],
+          [
+            -87.2170566,
+            14.0900758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1209957901",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1209957901
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2172349,
+            14.0895008
+          ],
+          [
+            -87.2171706,
+            14.0895711
+          ],
+          [
+            -87.2171693,
+            14.0896543
+          ],
+          [
+            -87.2172169,
+            14.0897272
+          ],
+          [
+            -87.2171485,
+            14.0899542
+          ],
+          [
+            -87.217133,
+            14.0900029
+          ],
+          [
+            -87.2170566,
+            14.0900758
+          ],
+          [
+            -87.21696,
+            14.0900985
+          ],
+          [
+            -87.2165919,
+            14.0900842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1209957902",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1209957902
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2181134,
+            14.0900764
+          ],
+          [
+            -87.218039,
+            14.0900745
+          ],
+          [
+            -87.2179739,
+            14.0900543
+          ],
+          [
+            -87.2179518,
+            14.0900198
+          ],
+          [
+            -87.2179545,
+            14.0899262
+          ],
+          [
+            -87.2180014,
+            14.0897902
+          ],
+          [
+            -87.2180289,
+            14.0896777
+          ],
+          [
+            -87.2180449,
+            14.0896129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254171950",
+      "properties": {
+        "alt_name": "11a Calle",
+        "highway": "residential",
+        "name": "11 Calle",
+        "oneway": "yes",
+        "osm_id": 1254171950
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2101524,
+            14.0946456
+          ],
+          [
+            -87.209262,
+            14.0945751
+          ],
+          [
+            -87.208375,
+            14.0945083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254193678",
+      "properties": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "6a Avenida",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "asphalt",
+        "osm_id": 1254193678
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2109796,
+            14.0850512
+          ],
+          [
+            -87.2107793,
+            14.086037
+          ],
+          [
+            -87.2107444,
+            14.0868904
+          ],
+          [
+            -87.2107069,
+            14.0874237
+          ],
+          [
+            -87.2106827,
+            14.087918
+          ],
+          [
+            -87.2106377,
+            14.0886203
+          ],
+          [
+            -87.2105926,
+            14.0891752
+          ],
+          [
+            -87.2105451,
+            14.0897458
+          ],
+          [
+            -87.2105043,
+            14.0903086
+          ],
+          [
+            -87.2104357,
+            14.0911537
+          ],
+          [
+            -87.2104196,
+            14.0913519
+          ],
+          [
+            -87.2103636,
+            14.0920407
+          ],
+          [
+            -87.2102941,
+            14.0929022
+          ],
+          [
+            -87.2102223,
+            14.0937847
+          ],
+          [
+            -87.2101524,
+            14.0946456
+          ],
+          [
+            -87.2100802,
+            14.0955209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1282525259",
+      "properties": {
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1282525259
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2156012,
+            14.0932556
+          ],
+          [
+            -87.2155309,
+            14.0932516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1282525260",
+      "properties": {
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1282525260
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2155927,
+            14.0933496
+          ],
+          [
+            -87.2155309,
+            14.0932516
+          ],
+          [
+            -87.2154996,
+            14.0932028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1282525261",
+      "properties": {
+        "alt_name": "13a Calle",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "13 Calle",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 1282525261
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2151193,
+            14.0933622
+          ],
+          [
+            -87.2148614,
+            14.0932127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1282525262",
+      "properties": {
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1282525262
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2151695,
+            14.0935175
+          ],
+          [
+            -87.2152415,
+            14.0935169
+          ],
+          [
+            -87.2153088,
+            14.0934052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1282607242",
+      "properties": {
+        "highway": "living_street",
+        "osm_id": 1282607242
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2191273,
+            14.0928138
+          ],
+          [
+            -87.2190175,
+            14.0924328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1283355265",
+      "properties": {
+        "covered": "yes",
+        "highway": "service",
+        "osm_id": 1283355265
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2102612,
+            14.0912895
+          ],
+          [
+            -87.2102587,
+            14.0913469
+          ],
+          [
+            -87.2103145,
+            14.0913478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286040874",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar del Norte",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 1286040874
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.216809,
+            14.0934161
+          ],
+          [
+            -87.216879,
+            14.0934433
+          ],
+          [
+            -87.2169141,
+            14.0934841
+          ],
+          [
+            -87.217139,
+            14.0940007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286040875",
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 1286040875
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2168051,
+            14.0933492
+          ],
+          [
+            -87.2167338,
+            14.0933333
+          ],
+          [
+            -87.2165773,
+            14.0933239
+          ],
+          [
+            -87.2160427,
+            14.0933384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286040876",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1286040876
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2143299,
+            14.0932383
+          ],
+          [
+            -87.2143379,
+            14.0931695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286040877",
+      "properties": {
+        "covered": "yes",
+        "highway": "service",
+        "osm_id": 1286040877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2143159,
+            14.0933575
+          ],
+          [
+            -87.2143299,
+            14.0932383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286040878",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1286040878
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2143044,
+            14.0934594
+          ],
+          [
+            -87.2143159,
+            14.0933575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286055369",
+      "properties": {
+        "alt_name": "15a Calle",
+        "highway": "residential",
+        "name": "15 Calle",
+        "surface": "asphalt",
+        "osm_id": 1286055369
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2104357,
+            14.0911537
+          ],
+          [
+            -87.2113347,
+            14.0912072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1290501202",
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "60",
+        "name": "Bulevar Santa Fe",
+        "name:en": "Boulevard Santa Fe",
+        "oneway": "yes",
+        "source:maxspeed": "Honduras traffic law",
+        "surface": "concrete",
+        "osm_id": 1290501202
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2157878,
+            14.0933447
+          ],
+          [
+            -87.2155927,
+            14.0933496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1291103457",
+      "properties": {
+        "alt_name": "14a Calle",
+        "highway": "residential",
+        "name": "14 Calle",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "osm_id": 1291103457
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2103636,
+            14.0920407
+          ],
+          [
+            -87.2094623,
+            14.0919891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301434394",
+      "properties": {
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1301434394
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2153244,
+            14.0932037
+          ],
+          [
+            -87.2152895,
+            14.0932187
+          ],
+          [
+            -87.2152287,
+            14.0933593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301434395",
+      "properties": {
+        "covered": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1301434395
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2154996,
+            14.0932028
+          ],
+          [
+            -87.2153244,
+            14.0932037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301434396",
+      "properties": {
+        "covered": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1301434396
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.215091,
+            14.0935155
+          ],
+          [
+            -87.2151695,
+            14.0935175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301434397",
+      "properties": {
+        "highway": "service",
+        "oneway": "yes",
+        "osm_id": 1301434397
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2149743,
+            14.0934155
+          ],
+          [
+            -87.2150413,
+            14.093514
+          ],
+          [
+            -87.215091,
+            14.0935155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301434399",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301434399
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.213622,
+            14.092607
+          ],
+          [
+            -87.2136965,
+            14.0926278
+          ],
+          [
+            -87.2138098,
+            14.0926421
+          ],
+          [
+            -87.2138205,
+            14.0926838
+          ],
+          [
+            -87.2138125,
+            14.0927241
+          ],
+          [
+            -87.2138017,
+            14.0927553
+          ],
+          [
+            -87.2137629,
+            14.092767
+          ],
+          [
+            -87.2131922,
+            14.0927338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301434408",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301434408
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2154952,
+            14.0920581
+          ],
+          [
+            -87.2155083,
+            14.0920474
+          ],
+          [
+            -87.2155821,
+            14.0919397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301697663",
+      "properties": {
+        "highway": "residential",
+        "name": "Calzada Chitr\u00e9",
+        "osm_id": 1301697663
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2152655,
+            14.091666
+          ],
+          [
+            -87.2151797,
+            14.0918111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301697664",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301697664
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2103145,
+            14.0913478
+          ],
+          [
+            -87.2104196,
+            14.0913519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301697665",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301697665
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2102735,
+            14.0911462
+          ],
+          [
+            -87.2102612,
+            14.0912895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301886140",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301886140
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.211546,
+            14.0929823
+          ],
+          [
+            -87.2115447,
+            14.0930402
+          ],
+          [
+            -87.2115406,
+            14.0931702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301886141",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301886141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2116246,
+            14.0938947
+          ],
+          [
+            -87.2116305,
+            14.0938297
+          ],
+          [
+            -87.2116278,
+            14.0938011
+          ],
+          [
+            -87.2116318,
+            14.0937243
+          ],
+          [
+            -87.2116278,
+            14.0936671
+          ],
+          [
+            -87.211601,
+            14.0936216
+          ],
+          [
+            -87.2115661,
+            14.0935683
+          ],
+          [
+            -87.2115205,
+            14.0934577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301922948",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301922948
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2117015,
+            14.0912245
+          ],
+          [
+            -87.2117029,
+            14.091171
+          ],
+          [
+            -87.211723,
+            14.0908965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301922951",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301922951
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2119376,
+            14.0946949
+          ],
+          [
+            -87.211664,
+            14.0944671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301922952",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1301922952
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2120687,
+            14.0932857
+          ],
+          [
+            -87.2121247,
+            14.0932932
+          ],
+          [
+            -87.2122742,
+            14.0933042
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307420572",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1307420572
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2182287,
+            14.0903541
+          ],
+          [
+            -87.2182126,
+            14.0904048
+          ],
+          [
+            -87.2181845,
+            14.0904231
+          ],
+          [
+            -87.2181308,
+            14.0904218
+          ],
+          [
+            -87.2180651,
+            14.090397
+          ],
+          [
+            -87.2177915,
+            14.0904218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307431983",
+      "properties": {
+        "highway": "residential",
+        "osm_id": 1307431983
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2182337,
+            14.0919226
+          ],
+          [
+            -87.217923,
+            14.0917576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307623866",
+      "properties": {
+        "highway": "residential",
+        "name": "Diagonal F",
+        "osm_id": 1307623866
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2182886,
+            14.0946795
+          ],
+          [
+            -87.2180514,
+            14.0947717
+          ],
+          [
+            -87.2174876,
+            14.0949759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307656946",
+      "properties": {
+        "highway": "residential",
+        "osm_id": 1307656946
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2189088,
+            14.0902184
+          ],
+          [
+            -87.218944,
+            14.0901873
+          ],
+          [
+            -87.2189932,
+            14.0901795
+          ],
+          [
+            -87.2191611,
+            14.0902242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307656947",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1307656947
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2161368,
+            14.093283
+          ],
+          [
+            -87.2161259,
+            14.0932167
+          ],
+          [
+            -87.2160937,
+            14.0930259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1308121976",
+      "properties": {
+        "highway": "residential",
+        "name": "Transversal Chiriqu\u00ed",
+        "surface": "concrete",
+        "osm_id": 1308121976
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2147007,
+            14.0908681
+          ],
+          [
+            -87.2146973,
+            14.0908796
+          ],
+          [
+            -87.2147036,
+            14.0908897
+          ],
+          [
+            -87.2149044,
+            14.0910432
+          ],
+          [
+            -87.2150991,
+            14.0911955
+          ],
+          [
+            -87.2153497,
+            14.0913944
+          ],
+          [
+            -87.2153613,
+            14.0913959
+          ],
+          [
+            -87.2153745,
+            14.0913934
+          ],
+          [
+            -87.2153868,
+            14.0913881
+          ],
+          [
+            -87.2153959,
+            14.0913789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1308800813",
+      "properties": {
+        "highway": "service",
+        "osm_id": 1308800813
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.215862,
+            14.0923375
+          ],
+          [
+            -87.2159804,
+            14.0921661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1323084754",
+      "properties": {
+        "highway": "residential",
+        "name": "Calle La Diana",
+        "osm_id": 1323084754
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2169248,
+            14.0891724
+          ],
+          [
+            -87.2168602,
+            14.089287
+          ],
+          [
+            -87.2166971,
+            14.0895763
+          ],
+          [
+            -87.2165477,
+            14.0898412
+          ],
+          [
+            -87.216525,
+            14.0900861
+          ],
+          [
+            -87.2164911,
+            14.090451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1323084755",
+      "properties": {
+        "highway": "living_street",
+        "lanes": "1",
+        "osm_id": 1323084755
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2157297,
+            14.0909322
+          ],
+          [
+            -87.2164522,
+            14.0903419
+          ]
+        ]
+      }
+    }
+  ]
+}
