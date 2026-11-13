@@ -47,6 +47,8 @@ Added a SQLite database to store road data downloaded from the Overpass API and 
 - Successfully downloaded 131 roads from one grid cell.
 - Recorded another cell as failed after a `504 Gateway Time-out`, while two cells remain pending.
 - Created `grid_test_roads.geojson` to view the successful download in QGIS.
+- Added `test_grid.py` to generate + validate grid cells
+    - Exported that test grid to GeoJSON to visualize in QGIS to compare grid bounds and view which cells download
 
 ### Next Steps
 - Retry unfinished grid cells.
