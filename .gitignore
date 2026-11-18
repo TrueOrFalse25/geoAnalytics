@@ -1,0 +1,28 @@
+# macOS and Python temporary files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Downloaded OSM datasets
+*.osm.pbf
+*.geojsonseq
+
+# Generated GeoJSON and HTML outputs
+combined_car_roads.geojson
+honduras_from_sql.geojson
+jamaica_from_sql.geojson
+jamaica_fixed.geojson
+honduras_roads_map.html
+test_road.html
+
+# Benchmark databases and backups
+*_benchmark.db
+*_backup.db
+roads_backup.db
+roads_before_*.db
+README_backup.md
+
+# Download output directories
+downloads/
+downloads_car_roads/
+downloads_jamaica/

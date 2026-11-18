@@ -27,9 +27,10 @@ headers = {
 # Small areas in Honduras
 # Outer boundaries of the new test area
 # Start of Grid Test 
+# Smaller grid covering the previously failed Honduras cell
 south_edge = 14.09
-north_edge = 14.10
-west_edge = -87.22
+north_edge = 14.095
+west_edge = -87.21
 east_edge = -87.20
 # testing only
 country_name = 'Honduras'
@@ -66,7 +67,8 @@ for section_id, bounds in sections.items():
         south=south,
         west=west,
         north=north,
-        east=east
+        east=east,
+        parent_cell_id='cell_14.090000_-87.210000_14.095000_-87.200000'
     )
 
 
@@ -157,12 +159,21 @@ for section_id, bounds in sections.items():
         retry_after = 0
 
         try:
+            start_time = time.perf_counter()
+
             response = requests.post(
                 url,
                 data={"data": query},
                 headers=headers,
                 timeout=90
             )
+
+            download_time = time.perf_counter() - start_time
+            downloaded_bytes = len(response.content)
+
+            print(f"Request time: {download_time:.2f} seconds")
+            print(f"Downloaded bytes: {downloaded_bytes:,}")
+            print(f"HTTP status: {response.status_code}")
 
             # Retry temporary server errors and rate limits
             retryable = response.status_code in {
@@ -231,8 +242,8 @@ for section_id, bounds in sections.items():
         # print(f"Stopping at {section_id}. Progress is saved.")
         mark_cell_failed(section_id, failure_reason)
 
-        print(f'Stopping at {section_id}. Failure saved in roads.db.')
-        break
+        print(f'Failed {section_id}. Continuing to next cell.')
+        continue
 
     # Pause before requesting another section
     time.sleep(30)

@@ -311,7 +311,7 @@ def store_roads_for_cell(cell_id, elements):
     with connect_database() as connection:
         cell = connection.execute(
             '''
-            SELECT cell_id
+            SELECT cell_id, country_id
             FROM grid_cells
             WHERE cell_id = ?
             ''',
@@ -413,6 +413,17 @@ def store_roads_for_cell(cell_id, elements):
                 VALUES (?, ?)
                 ''',
                 (cell_id, road_id)
+            )
+
+            connection.execute(
+                '''
+                INSERT OR IGNORE INTO country_roads (
+                    country_id,
+                    road_id
+                )
+                VALUES (?, ?)
+                ''',
+                (cell['country_id'], road_id)
             )
 
             stored_count += 1
